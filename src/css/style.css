@@ -10,14 +10,14 @@ body {
   background: url("../img/home.jpg") no-repeat;
   background-size: cover;
   background-attachment: fixed;
-  min-height: 700px; }
+  min-height: 800px; }
   #home-section .dark-overlay {
     background-color: rgba(0, 0, 0, 0.7);
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
-    min-height: 700px; }
+    min-height: 800px; }
   #home-section .home-inner {
     padding-top: 150px; }
   #home-section .card-form {
